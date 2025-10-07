@@ -14,7 +14,7 @@ An OpenGL based game engine written in C99.
 	- [SOIL2](https://github.com/SpartanJ/SOIL2)
 
 ## Optional
-- (MangoHud)[https://github.com/flightlessmango/MangoHud]
+- [MangoHud](https://github.com/flightlessmango/MangoHud)
 (for testing resource usage with make mango)
 
 ## Notes
